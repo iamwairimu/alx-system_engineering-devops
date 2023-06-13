@@ -1,2 +1,2 @@
 #!/bin/bash
-id hello user | pr
+id 'hello user'
