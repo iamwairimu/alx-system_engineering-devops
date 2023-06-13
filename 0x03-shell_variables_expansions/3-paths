@@ -1,2 +1,2 @@
 #!/bin/bash
-cat PATH | wc -d
+cat $PATH | wc -d
