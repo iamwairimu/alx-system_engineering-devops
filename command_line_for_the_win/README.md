@@ -7,7 +7,7 @@ SFTP Steps:
 3) Copy password in sandbox
 4) Paste in my local terminal
 5) Navigate to my repo in my terminal
-6) Navigate to my folder in lical file that has the screenshot
+6) Navigate to my folder in local file that has the screenshot
 7) Use put to upload the screenshots
 8) Confirm on my sandbox that the files are uploaded
 9) Then push to my github
