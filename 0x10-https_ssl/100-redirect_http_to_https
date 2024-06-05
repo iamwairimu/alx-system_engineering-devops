@@ -47,6 +47,5 @@ frontend nymore-frontend-https
 
 backend nymore-backend
         balance roundrobin
-        server 438976-web-01 54.84.175.104:80 check
-        server 438976-web-02 54.85.131.200:80 check
-                                                                                                                                               51,8          Bot
+        server 438976-web-01 34.207.221.178:80 check
+        server 438976-web-02 34.224.83.85:80 check                                                                                                                                           51,8          Bot
